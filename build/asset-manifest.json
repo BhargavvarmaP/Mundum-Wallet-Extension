@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c274b1e7.css",
+    "main.js": "/static/js/main.2ffaf112.js",
+    "static/media/mundom_logo.png": "/static/media/mundom_logo.02fc8c903a6ea5625f3c.png",
+    "static/media/reveal.png": "/static/media/reveal.cdab776495b9ae75a99b.png",
+    "index.html": "/index.html",
+    "main.c274b1e7.css.map": "/static/css/main.c274b1e7.css.map",
+    "main.2ffaf112.js.map": "/static/js/main.2ffaf112.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c274b1e7.css",
+    "static/js/main.2ffaf112.js"
+  ]
+}

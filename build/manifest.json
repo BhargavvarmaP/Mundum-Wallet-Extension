@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "Mundum Wallet",
+  "version": "1.0",
+  "description": "Mundum is a crypto wallet that can hold user assets and perform asset transfers",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Open"
+  },
+  "permissions": ["scripting"],
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'self'",
+    "sandbox": "sandbox allow-scripts allow-forms",
+    "default-src": " 'self' 'unsafe-inline'",
+    "script-src": ["'self'", "'unsafe-eval'"],
+    "object-src": ["'self'"]
+  }
+}
