@@ -1,0 +1,46 @@
+/* Dashboard.css */
+
+.appbar {
+  background: radial-gradient(
+    circle,
+    rgba(27, 77, 35, 1) 0%,
+    rgba(26, 74, 34, 1) 67%,
+    rgba(0, 0, 2, 1) 99%
+  );
+}
+
+.container {
+  margin-top: 24px; /* Use the equivalent of theme.spacing(3) */
+}
+
+.headerInfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+.select {
+  margin-top: 16px; /* Use the equivalent of theme.spacing(2) */
+  width: 100%;
+}
+
+.button {
+  margin-top: 16px; /* Use the equivalent of theme.spacing(2) */
+  width: 40%;
+  background: #1b4d23;
+  height: 50px;
+  font-family: "Roboto Slab";
+  font-weight: 700;
+  margin-right: 16px; /* Use the equivalent of theme.spacing(2) */
+}
+
+.center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.flex-direction-column {
+  flex-direction: column;
+}

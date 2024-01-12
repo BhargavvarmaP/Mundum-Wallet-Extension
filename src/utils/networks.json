@@ -1,0 +1,38 @@
+{
+  "1": {
+    "chainId": 1,
+    "network": "Ethereum Mainnet",
+    "symbol": "ETH",
+    "rpcUrl": "https://rpc.ankr.com/eth"
+  },
+  "5": {
+    "chainId": 5,
+    "network": "Goerli Testnet",
+    "symbol": "Goerli",
+    "rpcUrl": "https://rpc.ankr.com/eth_goerli"
+  },
+  "137": {
+    "chainId": 137,
+    "network": "Polygon Mainnet",
+    "symbol": "MATIC",
+    "rpcUrl": "https://rpc.ankr.com/polygon"
+  },
+  "80001": {
+    "chainId": 80001,
+    "network": "Mumbai Testnet",
+    "symbol": "MATIC",
+    "rpcUrl": "https://rpc.ankr.com/polygon_mumbai"
+  },
+  "56": {
+    "chainId": 56,
+    "network": "Binance SmartChain",
+    "symbol": "BNB",
+    "rpcUrl": "https://rpc.ankr.com/bsc"
+  },
+  "97": {
+    "chainId": 97,
+    "network": "Binance Testnet",
+    "symbol": "BNB",
+    "rpcUrl": "https://rpc.ankr.com/bsc_testnet_chapel"
+  }
+}

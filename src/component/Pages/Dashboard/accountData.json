@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "name": "Account 1",
+      "balance": "10 ETH",
+      "address": "0x1234...5678"
+    },
+    {
+      "id": 2,
+      "name": "Account 2",
+      "balance": "5 ETH",
+      "address": "0x5678...1234"
+    },
+    {
+      "id": 3,
+      "name": "Account 3",
+      "balance": "15 ETH",
+      "address": "0x9876...5432"
+    }
+  ]
+  
